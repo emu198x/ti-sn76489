@@ -3,7 +3,7 @@
 //! Adapted from `Emu198x-Oldest/crates/ti-sn76489` (port 2026-06-01) as
 //! the second of four commits unlocking ColecoVision. Self-contained
 //! port with no external chip dependencies; pair-mate to
-//! [`ti-tms9918`](https://docs.rs/ti-tms9918) for the TMS9918-family
+//! [`emu198x-ti-tms9918`](https://docs.rs/emu198x-ti-tms9918) for the TMS9918-family
 //! machine stack. Per-machine accuracy backlogs are tracked in GitHub
 //! Issues by `system:` label (see `docs/status/outstanding-work.md`).
 //!
